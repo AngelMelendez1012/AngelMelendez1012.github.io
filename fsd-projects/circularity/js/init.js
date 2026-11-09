@@ -20,11 +20,13 @@ var init = function (window) {
         ///////////////////
         
         // TODO 1 : Declare and initialize our variables
-
+        var circle 
 
 
         // TODO 2 : Create a function that draws a circle 
-        
+        function drawCircle() {
+            draw.randomCircleInArea(physikz.addRandomVelocity)
+         }
 
 
         // TODO 3 : Call the drawCircle() function
